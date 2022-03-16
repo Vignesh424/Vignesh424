@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio! 👋
+#Welcome to my GitHub portfolio! 👋
 
 Hi! My name is Vignesh Suresh. A meticulous and self learned student seeking an entry-level position in the field of Data Science. I am passionate about Data Science, Data Visualization, Data Analysis and identifying solutions. I am innovative,creative and willing to contribute ideas and learn new things. I also have a strong ability to handle complex projects.
 
