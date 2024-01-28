@@ -10,7 +10,7 @@ Hi! My name is Vignesh Suresh. A meticulous and self learned student seeking an 
 
 ### ACHIEVEMENTS 🏆
 
-> 1 x #VOTD (Viz of the Day)
+> 2 x #VOTDs (Viz of the Day)
 
 > Tableau CV published in Interactive Tableau CV Gallery
 
