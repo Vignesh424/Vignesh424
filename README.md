@@ -4,7 +4,7 @@ Hi! My name is Vignesh Suresh. A meticulous and self learned student seeking an 
 
 ### EDUCATION 🏫
 
-> Masters in Information Technology | 2020 - Present
+> Masters in Information Technology | 2020 - 2022
 
 > Mumbai University, Bachelor of Science in Information Technolofy | 2017-2020
 
@@ -14,7 +14,9 @@ Hi! My name is Vignesh Suresh. A meticulous and self learned student seeking an 
 
 > Tableau CV published in Interactive Tableau CV Gallery
 
-> Medium blog featured by Tableau (#DataFam Roundup)
+> Medium blogs featured by Tableau (#DataFam Roundup)
+
+> Featured as Tableau Community Highlight
 
 ### PORTFOLIO 📁
 
